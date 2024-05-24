@@ -1,4 +1,5 @@
-package com.codewithmosh;
-
-public class Main {
+public class helloworld {
+    public static void main{String[] args}  {
+          system.out.println{"hello, world"} ;
+    }
 }
